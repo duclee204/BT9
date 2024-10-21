@@ -6,6 +6,6 @@
 ## Ảnh Chụp Màn Hình
 
 <p align="center">
-![alt](BT9(1).jpg)
-![alt](BT9(2).jpg)
+  <img src="BT9(1).jpg" width="200" />
+  <img src="BT9(2).jpg" width="200" />
 </p>
